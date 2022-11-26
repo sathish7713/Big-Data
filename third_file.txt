@@ -1,1 +1,2 @@
 this is sample file 1
+making changes to this file while holding 2 staged files in stash
